@@ -1,0 +1,17 @@
+.navbar-collapse{
+ padding-left: 700px;
+
+}
+.nav-item{
+    padding-left:25px ;
+    font-size: 20px;
+    font-weight: bold;
+}
+@media screen and (max-width: 527px)  {
+    .navbar-collapse{
+        padding-left: 0px;
+       }
+  }
+  .card:hover{
+    box-shadow:rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
